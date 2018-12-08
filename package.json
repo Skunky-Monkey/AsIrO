@@ -1,1 +1,14 @@
-
+{
+    "name": "AsIrO",
+    "version": "1.0.0",
+    "description": "An electron practice app",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "author": "Skunky-Monkey",
+    "devDependencies": {
+      "electron": "^3.0.7"
+    }
+}
+  

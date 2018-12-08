@@ -1,1 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    font-family: 'Roboto', sans-sarif;
+    font-weight: 100;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 940px;
+    padding: 0 10px;
+}
+
+.header {
+    background: url;
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+}
+
+.header .container {
+    position: relative;
+    top: 200x;
+}
+
+.header h1 {
+    color: rgb(19, 233, 55);
+    line-height: 100px;
+    font-size: 80px;
+    margin-top: o;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+}
