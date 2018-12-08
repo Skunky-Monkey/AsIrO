@@ -1,6 +1,7 @@
 {
     "name": "AsIrO",
     "version": "1.0.0",
+    "repository": "https://github.com/Skunky-Monkey/AsIrO",
     "description": "An electron practice app",
     "main": "main.js",
     "scripts": {
