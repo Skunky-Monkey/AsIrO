@@ -9,7 +9,7 @@
     },
     "author": "Skunky-Monkey",
     "devDependencies": {
-      "electron": "^3.0.7"
+      "electron": "^11.5.0"
     }
 }
   
